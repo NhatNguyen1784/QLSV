@@ -8,5 +8,7 @@ namespace QLSV
 {
     internal class Class1
     {
+        int a = 0;
+        bool b  = false;
     }
 }

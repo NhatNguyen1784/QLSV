@@ -201,6 +201,9 @@
     <EmbeddedResource Include="FormSTD\ManageStudentsForm.resx">
       <DependentUpon>ManageStudentsForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ManagerCourse.resx">
+      <DependentUpon>ManagerCourse.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PrintForm.resx">
       <DependentUpon>PrintForm.cs</DependentUpon>
     </EmbeddedResource>

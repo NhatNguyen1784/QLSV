@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace QLSV
 {
-    public partial class ManagerCourse : Form
+    public partial class ManagerCoursecs : Form
     {
-        public ManagerCourse()
+        public ManagerCoursecs()
         {
             InitializeComponent();
         }

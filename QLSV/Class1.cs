@@ -10,7 +10,5 @@ namespace QLSV
     {
         int a = 0;
         bool b  = false;
-        int c = 1;
-        string d = "Pleiku Gia Lai";
     }
 }

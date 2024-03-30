@@ -10,5 +10,7 @@ namespace QLSV
     {
         int a = 0;
         bool b  = false;
+        string c = "Gia Lai";
+        string d = "UTE";
     }
 }
